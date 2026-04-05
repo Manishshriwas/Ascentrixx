@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X, Zap, Moon, Sun } from 'lucide-react';
-import logo from '../../assets/logo.svg';
+import logo from "/Users/satishshriwas/Desktop/acendrix/it-services-website 2/src/assets/logo.svg";
 
 
 const navLinks = [
