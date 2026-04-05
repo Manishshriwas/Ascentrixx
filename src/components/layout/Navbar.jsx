@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X, Zap, Moon, Sun } from 'lucide-react';
-import logo from '../../assets/logo.svg';
+// import logo from '';
 
 
 const navLinks = [
@@ -33,7 +33,7 @@ const Navbar = ({ theme, toggleTheme }) => {
         <a href="#hero" className="flex items-center gap-2.5">
           <div className="w-12 h-12 flex items-center justify-center">
   <img
-    src={logo}
+    src="/logo.svg"
     alt="logo"
     className="w-full h-full object-contain"
   />
