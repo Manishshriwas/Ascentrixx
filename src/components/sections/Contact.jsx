@@ -3,9 +3,9 @@ import { Send, CheckCircle2, Mail, Phone, MapPin } from 'lucide-react';
 import { useScrollAnimation } from '../../hooks/useScrollAnimation';
 
 const contactInfo = [
-  { icon: Mail, label: 'Email', value: 'hello@nexacore.io', href: 'mailto:hello@nexacore.io' },
-  { icon: Phone, label: 'Phone', value: '+1 (123) 456-7890', href: 'tel:+11234567890' },
-  { icon: MapPin, label: 'Office', value: 'San Francisco, CA 94105', href: '#' },
+  { icon: Mail, label: 'Email', value: 'ascendrixxtechprivatelimited@gmail.com', href: 'mailto:hello@nexacore.io' },
+  { icon: Phone, label: 'Phone', value: '+91 6394209789', href: 'tel:+11234567890' },
+  { icon: MapPin, label: 'Office', value: 'Office No. 216, Second Floor, Vardhman Crown Mall, Sector 19-Dwarka, New Delhi 110075', href: '#' },
 ];
 
 const Contact = () => {
@@ -58,7 +58,7 @@ const Contact = () => {
               style={{ background: 'linear-gradient(135deg, rgba(0,96,230,0.15), rgba(0,212,255,0.05))' }}>
               <h4 className="font-heading font-600 text-white mb-2">Emergency Support?</h4>
               <p className="text-slate-400 text-sm mb-4">Our 24/7 NOC is standing by for critical incidents.</p>
-              <a href="tel:+11234567890" className="btn-outline text-sm py-2.5 px-5">
+              <a href="tel:+916394209789" className="btn-outline text-sm py-2.5 px-5">
                 Call Us Now
               </a>
             </div>

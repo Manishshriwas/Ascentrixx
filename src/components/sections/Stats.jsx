@@ -3,7 +3,7 @@ import { TrendingUp, Clock, Globe2, Star } from 'lucide-react';
 import { useScrollAnimation, useCounter } from '../../hooks/useScrollAnimation';
 
 const statData = [
-  { icon: TrendingUp, end: 500, suffix: '+', label: 'Enterprise Clients', color: '#00d4ff', desc: 'Across 30+ countries' },
+  { icon: TrendingUp, end: 50, suffix: '+', label: 'Enterprise Clients', color: '#00d4ff', desc: 'Across + country' },
   { icon: Clock, end: 99, suffix: '.9%', label: 'Uptime Guaranteed', color: '#0060e6', desc: 'Industry-leading SLA' },
   { icon: Globe2, end: 30, suffix: '+', label: 'Countries Served', color: '#7c3aed', desc: 'Global infrastructure' },
   { icon: Star, end: 4, suffix: '.9★', label: 'Client Rating', color: '#d97706', desc: 'Based on 2400+ reviews' },
@@ -58,7 +58,7 @@ const Stats = () => {
             Results That <span className="text-gradient">Speak For Themselves</span>
           </h2>
           <p className="text-slate-400 max-w-lg mx-auto">
-            Over 15 years of delivering measurable impact for enterprises across every major industry.
+            Over years of delivering measurable impact for enterprises across every major industry.
           </p>
         </div>
 

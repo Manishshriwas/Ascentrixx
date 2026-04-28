@@ -18,10 +18,14 @@ const Footer = () => {
             <div className="flex items-center gap-2.5 mb-5">
               <div className="w-9 h-9 rounded-xl flex items-center justify-center"
                 style={{ background: 'linear-gradient(135deg, #0060e6, #00d4ff)' }}>
-                <Zap size={18} className="text-white" />
+                <img
+                  src='/logo.svg'
+                  alt="logo"
+                  // className="w-5 h-5 object-contain"
+                />
               </div>
-              <span className="font-heading font-700 text-xl text-white">
-                Nexa<span className="text-gradient">Core</span>
+              <span className="font-heading font-700 text-xl text-Grey">
+                ASCEND<span className="text-gradient">RIXX</span>
               </span>
             </div>
             <p className="text-slate-400 text-sm leading-relaxed mb-6 max-w-xs">
@@ -29,13 +33,13 @@ const Footer = () => {
             </p>
             <div className="flex flex-col gap-3 text-sm text-slate-400">
               <a href="mailto:hello@nexacore.io" className="flex items-center gap-2 hover:text-accent-400 transition-colors">
-                <Mail size={14} /> hello@nexacore.io
+                <Mail size={14} /> ascendrixxtechprivatelimited@gmail.com
               </a>
               <a href="tel:+11234567890" className="flex items-center gap-2 hover:text-accent-400 transition-colors">
-                <Phone size={14} /> +1 (123) 456-7890
+                <Phone size={14} /> +91 6394209789
               </a>
               <span className="flex items-center gap-2">
-                <MapPin size={14} /> San Francisco, CA 94105
+                <MapPin size={14} /> Office No. 216, Second Floor, Vardhman Crown Mall, Sector 19-Dwarka, New Delhi 110075
               </span>
             </div>
           </div>
@@ -60,7 +64,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-slate-500 text-sm font-mono">
-            © 2025 NexaCore IT Solutions. All rights reserved.
+            © 2025 ASCENDRIXX IT Solutions. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
             {[Github, Twitter, Linkedin].map((Icon, i) => (

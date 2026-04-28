@@ -29,7 +29,7 @@ const CTABanner = () => {
               Start Your Digital <span className="text-gradient">Transformation</span>
             </h2>
             <p className="text-slate-400 max-w-xl mx-auto mb-8 text-lg">
-              Join 500+ enterprises who've accelerated growth with NexaCore's enterprise IT platform.
+              Join 50+ enterprises who've accelerated growth with ASCENDRIXX's enterprise IT platform.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="btn-primary">

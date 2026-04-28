@@ -33,12 +33,12 @@ const About = () => {
           ref={leftRef}
           className={`transition-all duration-700 ${leftVisible ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-12'}`}
         >
-          <div className="section-tag mb-5">About NexaCore</div>
+          <div className="section-tag mb-5">About ASCENDRIXX</div>
           <h2 className="font-heading font-700 text-4xl md:text-5xl text-white leading-tight mb-6">
-            Trusted by <span className="text-gradient">500+ Enterprises</span> Globally
+            Trusted by <span className="text-gradient">Enterprises</span> Globally
           </h2>
           <p className="text-slate-400 leading-relaxed mb-6">
-            Founded in 2009, NexaCore has grown from a regional MSP into a globally recognized IT partner powering Fortune 500 companies and fast-scaling startups alike. Our philosophy is simple: technology should serve your business, not complicate it.
+            Founded in 2025, ASCENDRIXX has grown from a regional MSP into a globally recognized IT partner powering Fortune  companies and fast-scaling startups alike. Our philosophy is simple: technology should serve your business, not complicate it.
           </p>
           <p className="text-slate-400 leading-relaxed mb-8">
             We combine deep technical expertise with a consultative approach to deliver solutions that are not only robust today but future-proof for what comes next.
@@ -68,8 +68,8 @@ const About = () => {
             <div className="glass-card rounded-2xl p-8">
               <div className="grid grid-cols-2 gap-6 mb-6">
                 {[
-                  { value: '15+', label: 'Years Experience' },
-                  { value: '500+', label: 'Happy Clients' },
+                  { value: '5+', label: 'Years Experience' },
+                  { value: '50+', label: 'Happy Clients' },
                   { value: '99.9%', label: 'Uptime Average' },
                   { value: '200+', label: 'Team Members' },
                 ].map(({ value, label }) => (
@@ -82,7 +82,7 @@ const About = () => {
               </div>
               <div className="h-px bg-gradient-to-r from-transparent via-accent-500/30 to-transparent mb-6" />
               <p className="text-slate-400 text-sm text-center italic">
-                "Consistently ranked in top 50 global managed service providers since 2018."
+                "Consistently ranked in top global managed service providers since 2025."
               </p>
             </div>
           </div>
