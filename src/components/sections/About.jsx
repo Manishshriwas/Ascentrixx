@@ -38,7 +38,7 @@ const About = () => {
             Trusted by <span className="text-gradient">Enterprises</span> Globally
           </h2>
           <p className="text-slate-400 leading-relaxed mb-6">
-            Founded in 2025, ASCENDRIXX has grown from a regional MSP into a globally recognized IT partner powering Fortune  companies and fast-scaling startups alike. Our philosophy is simple: technology should serve your business, not complicate it.
+            Founded in 2026, ASCENDRIXX has grown from a regional MSP into a globally recognized IT partner powering Fortune  companies and fast-scaling startups alike. Our philosophy is simple: technology should serve your business, not complicate it.
           </p>
           <p className="text-slate-400 leading-relaxed mb-8">
             We combine deep technical expertise with a consultative approach to deliver solutions that are not only robust today but future-proof for what comes next.

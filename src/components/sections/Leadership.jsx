@@ -6,7 +6,7 @@ const leaders = [
   {
     name: 'Gajendra Kushwaha',
     role: 'Founder',
-    bio: 'I focus on software management practices that enhance productivity and team collaboration. Interested in project planning, quality assurance, and efficient delivery of software systems.',
+    bio: 'I focus on software management practices that enhance productivity and team collaboration. Interested in project planning, quality assurance, and efficient delivery of software systems and financial services',
     avatar: 'GK',
     gradient: 'linear-gradient(135deg, #0060e6, #00d4ff)',
     ring: 'rgba(0,212,255,0.4)',
@@ -14,7 +14,7 @@ const leaders = [
   {
     name: 'Komal Sen',
     role: 'Co-Founder',
-    bio: 'Focused on website management, hosting, and financial services. Ensures smooth operations and reliable service delivery.',
+    bio: 'Focused on website management, hosting. Ensures smooth operations and reliable service delivery.',
     avatar: 'KS',
     gradient: 'linear-gradient(135deg, #7c3aed, #0060e6)',
     ring: 'rgba(124,58,237,0.4)',

@@ -64,7 +64,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-slate-500 text-sm font-mono">
-            © 2025 ASCENDRIXX IT Solutions. All rights reserved.
+            © 2026 ASCENDRIXX IT Solutions. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
             {[Github, Twitter, Linkedin].map((Icon, i) => (
