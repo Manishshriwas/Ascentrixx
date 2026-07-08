@@ -1,4 +1,4 @@
-# NexaCore — IT Services Website
+# Ascentrixx — IT Services Website
 
 A production-grade, fully animated IT services landing page built with **React 18** and **Tailwind CSS**.
 
