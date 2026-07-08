@@ -4,10 +4,10 @@ import { useScrollAnimation } from '../../hooks/useScrollAnimation';
 
 const leaders = [
   {
-    name: 'Gajendra Kushwaha',
+    name: 'Govind',
     role: 'Founder',
-    bio: 'I focus on software management practices that enhance productivity and team collaboration. Interested in project planning, quality assurance, and efficient delivery of software systems and financial services',
-    avatar: 'GK',
+    bio: 'Passionate about innovation and entrepreneurship, dedicated to building technology that solves real-world problems and creates lasting value. Focused on shaping the future through simplicity, trust, and continuous innovation',
+    avatar: 'G',
     gradient: 'linear-gradient(135deg, #0060e6, #00d4ff)',
     ring: 'rgba(0,212,255,0.4)',
   },
